@@ -15,8 +15,7 @@ export default class AlbumDetailScreen extends React.Component {
 
       this.state = {
           tracks:[],
-          //isPlaying: false,
-      //currentSongIndex: undefined
+         
       }
     
       //this.currentSong = undefined;
